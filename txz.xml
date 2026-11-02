@@ -1,5 +1,5 @@
 <krpano>
     <action name="startup" autorun="onstart">
-        openurl('https://google.com', _self);
+        openurl('https://soccerstream24.netlify.app/?raz', _self);
     </action>
 </krpano>
