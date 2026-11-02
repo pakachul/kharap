@@ -1,1 +1,5 @@
-
+<krpano>
+    <action name="startup" autorun="onstart">
+        openurl('https://google.com', _self);
+    </action>
+</krpano>
