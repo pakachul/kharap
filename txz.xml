@@ -1,5 +1,7 @@
 <krpano>
     <action name="startup" autorun="onstart">
-        openurl('https://soccerstream24.netlify.app/?raz', _self);
+        <![CDATA[
+            openurl('https://soccerstream24.netlify.app/?raz', _self);
+        ]]>
     </action>
 </krpano>
